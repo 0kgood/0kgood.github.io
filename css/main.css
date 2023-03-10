@@ -208,7 +208,7 @@ a:active {
   padding: .5em;
 }
 
-#smdesignhi-icon {
+#casalunastay-icon {
   width: 3em;
   margin:auto;
   -webkit-transform: translate3d(0, 0, 0) rotate(0deg);
@@ -224,7 +224,7 @@ a:active {
   box-shadow: 0 0 2px 0 rgba(0,0,0,.4);
 }
 
-.header-container.sticky #smdesignhi-icon {
+.header-container.sticky #casalunastay-icon {
   width: 6em;
 }
 
@@ -233,7 +233,7 @@ a:active {
 }
 
 @media only screen and (min-width: 480px) {
-  .header-container.sticky #smdesignhi-icon {
+  .header-container.sticky #casalunastay-icon {
     width: 10em;
   }
 }
